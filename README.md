@@ -16,6 +16,9 @@ The research is based on a questionnaire survey conducted among 600 football fan
 - FIFA video game playing habits
 - Duration of following European football
 ## Executive Summary
+
+![image](https://github.com/user-attachments/assets/e9ebe27d-4169-4774-bcf4-4fc23ab1bd5c)
+
 The findings reveal significant insights into American audience engagement with European football:
 1. Logo Recognition: Varying sponsor logo recognition rates indicate disparities in marketing effectiveness.
 2. Demographics: Males recognize more logos than females; younger viewers show higher recognition rates.
