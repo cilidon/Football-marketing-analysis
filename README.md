@@ -17,9 +17,9 @@ The research is based on a questionnaire survey conducted among 600 football fan
 - Duration of following European football
 ## Executive Summary
 
-<img src="https://github.com/user-attachments/assets/e9ebe27d-4169-4774-bcf4-4fc23ab1bd5c" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/e9ebe27d-4169-4774-bcf4-4fc23ab1bd5c" width="500" height="300">
 
-<img src="https://github.com/user-attachments/assets/286135d3-f40e-4c5e-9bf3-95c82e74cedd" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/286135d3-f40e-4c5e-9bf3-95c82e74cedd" width="500" height="300">
 
 
 
